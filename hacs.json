@@ -1,0 +1,5 @@
+{
+    "name": "panel_proxy",
+    "domains": ["panel_proxy"],
+    "render_readme": true
+}
