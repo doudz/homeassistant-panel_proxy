@@ -5,5 +5,6 @@
   "requirements": [],
   "dependencies": ["frontend", "http"],
   "codeowners": ["@doudz"],
+  "version" : "0.0.1",
   "quality_scale": "internal"
 }
